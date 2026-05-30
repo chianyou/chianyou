@@ -7,7 +7,7 @@ Computer Vision & Applied AI | Data Analytics
 
 📊 Building AI systems for video understanding and sports analytics
 
-🧠 Interested in human motion analysis, machine learning, and data-driven products
+🧠 motion analysis, machine learning, and data-driven products
 
 💬 Open to collaboration on AI / CV projects
 
