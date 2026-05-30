@@ -7,9 +7,8 @@ Computer Vision & Applied AI | Data Analytics
 
 📊 Building AI systems for video understanding and sports analytics
 
-🧠 motion analysis, machine learning, and data-driven products
+🧠 Motion analysis, machine learning, and data-driven products
 
-💬 Open to collaboration on AI / CV projects
 
 ---
 
